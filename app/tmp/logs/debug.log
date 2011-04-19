@@ -229,3 +229,4 @@
 2011-04-17 17:31:27 Debug: Notice (8): Undefined index:  book_id in [C:\wamp\www\p10books\app\controllers\orders_controller.php, line 25]
 2011-04-18 07:56:25 Debug: Notice (8): Undefined variable: sql_dump in [C:\wamp\www\p10books\app\views\users\chome.ctp, line 14]
 2011-04-18 08:06:04 Debug: Notice (8): Undefined variable: sql_dump in [C:\wamp\www\p10books\app\views\users\chome.ctp, line 14]
+2011-04-19 10:36:27 Debug: Notice (8): Undefined variable: user in [C:\wamp\www\p10books\app\views\users\chome.ctp, line 1]
