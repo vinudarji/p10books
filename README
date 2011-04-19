@@ -1,0 +1,22 @@
+Steps i have followed:
+
+1. created db and created below two table (Script will be found in /db folder)
+	 - users (9 fields, id - auto increment)
+	 - books (10 fields, id - auto increment)
+2. created fresh cakephp app
+3. run the 'cake bake all' command	
+4. checked 'http://localhost/p10books_func/users/' and 'http://localhost/p10books_func/books/' to make sure everything working
+5. Now refer the html designs sent my me. 
+6. Create default.ctp in views/layouts folder. Copy default.ctp content from previous project to this project's default.ctp
+7. Copy webroot/css/reset.css,webroot/css/fonts.css, webroot/css/p10books.css files to current project webroot/css folder
+8. Now create home.ctp file under views/pages folder. This will be shown as our home page.
+9. Now visit 'http://localhost/p10books_func/users/add'. Our user registration functionality is ready as we have used cake bake. Now we need to make this look like our previous html design app. So open current project's /app/views/users/add.ctp. And create css class as mentioned in page. I will explain this on skype how to create css. 
+
+
+---Regarding layouts and view see this link - http://book.cakephp.org/view/1078/Views
+
+
+TASKS:
+======================================
+1. Book image upload
+2. User image upload
